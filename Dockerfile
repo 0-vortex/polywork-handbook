@@ -9,6 +9,7 @@ COPY .npmrc ./
 RUN npm i -g npm@latest
 RUN npm ci
 
+COPY blog ./blog
 COPY docs ./docs
 COPY src ./src
 COPY static ./static
