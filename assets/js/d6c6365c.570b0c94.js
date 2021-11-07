@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpolywork_handbook=self.webpackChunkpolywork_handbook||[]).push([[532],{8584:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/polywork","name":"polywork","count":1,"permalink":"/blog/tags/polywork"}')}}]);

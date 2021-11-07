@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpolywork_handbook=self.webpackChunkpolywork_handbook||[]).push([[902],{5460:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/feedback","name":"feedback","count":1,"permalink":"/blog/tags/feedback"}')}}]);

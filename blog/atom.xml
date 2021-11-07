@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://polywork.vortex.name/blog</id>
+    <title>Polywork Handbook Blog</title>
+    <updated>2021-11-07T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://polywork.vortex.name/blog"/>
+    <subtitle>Polywork Handbook Blog</subtitle>
+    <icon>https://polywork.vortex.name/favicon/polywork-favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[My first interaction with Polywork]]></title>
+        <id>first-interaction</id>
+        <link href="https://polywork.vortex.name/blog/first-interaction"/>
+        <updated>2021-11-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The blog supports tags as well!]]></summary>
+        <content type="html"><![CDATA[<p>The blog supports tags as well!</p>]]></content>
+        <author>
+            <name>TED Vortex</name>
+            <uri>https://github.com/0-vortex</uri>
+        </author>
+    </entry>
+</feed>

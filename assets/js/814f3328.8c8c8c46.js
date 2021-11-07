@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpolywork_handbook=self.webpackChunkpolywork_handbook||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"My first interaction with Polywork","permalink":"/blog/first-interaction"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpolywork_handbook=self.webpackChunkpolywork_handbook||[]).push([[712],{7362:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/early-adopter","name":"early adopter","count":1,"permalink":"/blog/tags/early-adopter"}')}}]);
