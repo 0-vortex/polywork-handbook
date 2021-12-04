@@ -1,12 +1,12 @@
 {
   "name": "polywork-handbook",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "polywork-handbook",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "hasInstallScript": true,
       "dependencies": {
         "@docusaurus/core": "2.0.0-beta.9",
